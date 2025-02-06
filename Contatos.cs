@@ -26,8 +26,14 @@ public class Contatos
             throw new Exception("ID inválido");
         }
     }
+
+    public override string ToString()
+    {
+        return _id+ " "+_nome+" "+" "+_phone+" "+ _email+" "+_avatar;
+    }
     public int GetId()
     {
         return _id;
     }
+
 }

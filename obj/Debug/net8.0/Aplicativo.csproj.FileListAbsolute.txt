@@ -12,3 +12,4 @@ C:\Users\2023202060022\Downloads\Aplicativo\obj\Debug\net8.0\refint\Aplicativo.d
 C:\Users\2023202060022\Downloads\Aplicativo\obj\Debug\net8.0\Aplicativo.pdb
 C:\Users\2023202060022\Downloads\Aplicativo\obj\Debug\net8.0\Aplicativo.genruntimeconfig.cache
 C:\Users\2023202060022\Downloads\Aplicativo\obj\Debug\net8.0\ref\Aplicativo.dll
+C:\Users\2023202060022\Downloads\Aplicativo\obj\Debug\net8.0\Aplicativo.sourcelink.json

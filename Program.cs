@@ -10,7 +10,6 @@ public class Program
         List<Contatos> listContatos = new List<Contatos>();
         do
         {
-            Clear();
             WriteLine("+++++ CADASTRO DE CONTATOS +++++\n");
             WriteLine("[1] Cadastrar");
             WriteLine("[2] Listar Contatos ");
@@ -44,16 +43,20 @@ public class Program
             }
             else if (op == 2)
             {
-                Clear();
+
+                
                 foreach (var agenda in listContatos)
                 {
-                    WriteLine($"\nID: {agenda.GetId}");
+                    WriteLine(agenda.ToString());
+                    /*WriteLine($"\nID: {agenda.GetId}");
                     WriteLine($"Nome: {agenda._nome}");
                     WriteLine($"Telefone: {agenda._phone}");
                     WriteLine($"E-mail: {agenda._email}");
                     WriteLine($"Avatar: {agenda._avatar}\n");
-                    WriteLine("----------------------------------");
+                    WriteLine("----------------------------------");*/
                 }
+
+
                 ReadKey();
             }else if (op == 3)
 
