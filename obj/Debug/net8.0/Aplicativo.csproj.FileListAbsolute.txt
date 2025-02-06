@@ -1,0 +1,14 @@
+C:\Users\2023202060022\Downloads\Aplicativo\bin\Debug\net8.0\Aplicativo.exe
+C:\Users\2023202060022\Downloads\Aplicativo\bin\Debug\net8.0\Aplicativo.deps.json
+C:\Users\2023202060022\Downloads\Aplicativo\bin\Debug\net8.0\Aplicativo.runtimeconfig.json
+C:\Users\2023202060022\Downloads\Aplicativo\bin\Debug\net8.0\Aplicativo.dll
+C:\Users\2023202060022\Downloads\Aplicativo\bin\Debug\net8.0\Aplicativo.pdb
+C:\Users\2023202060022\Downloads\Aplicativo\obj\Debug\net8.0\Aplicativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023202060022\Downloads\Aplicativo\obj\Debug\net8.0\Aplicativo.AssemblyInfoInputs.cache
+C:\Users\2023202060022\Downloads\Aplicativo\obj\Debug\net8.0\Aplicativo.AssemblyInfo.cs
+C:\Users\2023202060022\Downloads\Aplicativo\obj\Debug\net8.0\Aplicativo.csproj.CoreCompileInputs.cache
+C:\Users\2023202060022\Downloads\Aplicativo\obj\Debug\net8.0\Aplicativo.dll
+C:\Users\2023202060022\Downloads\Aplicativo\obj\Debug\net8.0\refint\Aplicativo.dll
+C:\Users\2023202060022\Downloads\Aplicativo\obj\Debug\net8.0\Aplicativo.pdb
+C:\Users\2023202060022\Downloads\Aplicativo\obj\Debug\net8.0\Aplicativo.genruntimeconfig.cache
+C:\Users\2023202060022\Downloads\Aplicativo\obj\Debug\net8.0\ref\Aplicativo.dll
